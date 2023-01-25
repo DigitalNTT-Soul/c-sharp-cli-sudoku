@@ -4,9 +4,7 @@ The purpose of this project was to give myself an interesting and motivating goa
 
 The software I wrote for this self-learning project is a somewhat rudimentary little command-line-based, playable Sudoku game. It allows for simple displaying, editing, saving, and loading of Sudoku boards. It also includes rule validation to ensure that the cardinal rule of Sudoku (that the same number cannot appear twice in any row, column, or block) cannot be broken during loading or editing of boards. The same functionality also powers a menu option that allows the player to see all currently-legal values for a single cell, as well as the final, full-board validation that occurs when the board has been filled, to ensure the solution is valid. The game also keeps track of which cells are "preset" before the game begins, and prevents those cells from being edited, to ensure that the puzzle cannot simply be changed in-game to make it easier. There is also an option to save a board state as a puzzle/template, by marking all filled cells as presets.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Demo Video (placeholder)](http://youtube.link.goes.here)
+[Here](https://youtu.be/QwNwtbC8Utg) is a video walkthrough of the running software and some of the features of the code itself. I hope you enjoy!
 
 # Development Environment
 

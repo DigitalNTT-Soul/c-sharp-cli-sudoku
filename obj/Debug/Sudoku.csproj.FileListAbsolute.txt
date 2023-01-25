@@ -18,3 +18,13 @@ C:\Users\dylan\Downloads\Week 03\Sudoku\bin\Debug\Sudoku.pdb
 C:\Users\dylan\Downloads\Week 03\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
 C:\Users\dylan\Downloads\Week 03\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
 C:\Users\dylan\Downloads\Week 03\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\bin\Debug\Sudoku.exe
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\bin\Debug\Sudoku.pdb
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.exe
+D:\Dropbox\.COLLEGE\ASSIGNMENTS\CSE 310\Week 03\Sudoku\obj\Debug\Sudoku.pdb
